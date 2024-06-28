@@ -1,6 +1,7 @@
 linea = []
-
-for i in range(10):
+contador = 0
+while contador < 10:
     linea.append(".")
+    contador += 1
 
 print(linea)
