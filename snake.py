@@ -1,6 +1,6 @@
 linea = []
 
 for i in range(10):
-    linea.append("*")
+    linea.append(".")
 
 print(linea)
